@@ -1,6 +1,6 @@
 # The Android App Market on Google Play ![A++](https://user-images.githubusercontent.com/64209503/92018213-7b5d7b00-ed72-11ea-8947-e7bdb64267b9.png)
 Loaded, cleaned, and visualized scraped Google Play Store data to understand the Android app market. 
-(The project can be seen in the .ipynb file)
+(The project can be seen in the .ipynb files)
 
 ## Introduction
 Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. This project is a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. Insights in the data help to devise strategies to drive growth and retention.
