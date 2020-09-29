@@ -2,6 +2,12 @@
 Loaded, cleaned, and visualized scraped Google Play Store data to understand the Android app market. 
 (The project can be seen in the .ipynb files)
 
+## Note 
+* In case you are unable to load the jupyter notebook(.ipynb) and something like this pops up - Sorry, something went wrong. Reload? 
+* Copy the .ipynb code url (https://github.com/Shubhi550/The-Android-App-Market-on-Google-Play/blob/master/AndroidAppMarket_Code1.ipynb)
+* Go to https://nbviewer.jupyter.org/
+* Paste the copied url and press the Go! button
+
 ## Introduction
 Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. This project is a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. Insights in the data help to devise strategies to drive growth and retention.
 
